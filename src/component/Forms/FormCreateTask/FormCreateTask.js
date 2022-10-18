@@ -191,7 +191,7 @@ const frmCreateTask = withFormik({
     return {
       taskName: '',
       description: '',
-      statusId: 999,
+      statusId: 4,
       originalEstimate: 0,
       timeTrackingSpent: 0,
       timeTrackingRemaining: 0,
